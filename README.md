@@ -19,3 +19,22 @@ My portfolio highlights **end-to-end data pipelines**, from synthetic data gener
 - **Visualization & Reporting:** Matplotlib, Seaborn, Plotly  
 - **Data Engineering:** Feature Engineering, Synthetic Data Generation, Data Preprocessing  
 - **Tools & Workflow:** Jupyter, Git, Docker, Virtual Environments, Model Serialization (joblib)  
+
+## 📊 Featured Projects
+
+### 1. [Predictive Maintenance — Industrial Equipment Failure Prediction](02-predictive-maintenance/)
+**End-to-end machine learning pipeline for industrial predictive maintenance**
+
+- **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
+- **Data:** Synthetic sensor data generated programmatically (machines, sensor readings, failure logs)  
+- **Pipeline:** Data generation → feature engineering → model training → evaluation & visualization  
+- **Models:** Random Forest Classifier (evaluated with ROC, confusion matrix, feature importance)  
+- **Results:** Achieved ROC AUC of **0.9999**, with high precision/recall for failure prediction  
+- **Business Impact:** Enables proactive maintenance scheduling, reducing downtime and saving costs  
+
+**Key Files:**
+- [`00_generate_sensor_data.py`](02-predictive-maintenance/00_generate_sensor_data.py) – Synthetic data generation  
+- [`01_create_features.py`](02-predictive-maintenance/01_create_features.py) – Rolling-window feature engineering  
+- [`02_train_model.py`](02-predictive-maintenance/02_train_model.py) – Model training and metrics export  
+- [`03_evaluate_visualize.py`](02-predictive-maintenance/03_evaluate_visualize.py) – Evaluation plots and reports  
+- [`reports/`](02-predictive-maintenance/reports/) – Contains ROC, confusion matrix, metrics summary  
