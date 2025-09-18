@@ -1,1 +1,15 @@
+# Ignore generated data, models and visuals
+02-predictive-maintenance/data/processed/
+02-predictive-maintenance/features/
+02-predictive-maintenance/models/
+02-predictive-maintenance/reports/visuals/
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+
+# macOS
+.DS_Store
 
