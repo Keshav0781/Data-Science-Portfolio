@@ -76,4 +76,25 @@ python 04_evaluate_visualize.py
 
 ## Next steps (stretch)
 - Add cost-sensitive learning or uplift modeling to measure business ROI of interventions  
-- Build a small dashboard (Power BI / Streamlit) to serve predictions to business users  
+- Build a small dashboard (Power BI / Streamlit) to serve predictions to business users
+
+## Results
+
+The models were evaluated on the test set.  
+
+### Model Performance
+
+| Model              | Accuracy | Precision | Recall | F1     | ROC_AUC |
+|--------------------|----------|-----------|--------|--------|---------|
+| LogisticRegression | 0.569    | 0.263     | 0.774  | 0.392  | 0.656   |
+| RandomForest       | 0.813    | 0.333     | 0.040  | 0.071  | 0.647   |
+| GradientBoosting   | 0.817    | 0.357     | 0.020  | 0.038  | 0.667   |
+
+### Evaluation Visuals
+
+- **ROC Curves**  
+  ![ROC Curves](reports/roc_curves.png)
+
+- **Confusion Matrix (LogisticRegression)**  
+  ![Confusion Matrix](reports/confusion_matrix_LogisticRegression.png)
+
