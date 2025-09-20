@@ -93,8 +93,12 @@ The models were evaluated on the test set.
 ### Evaluation Visuals
 
 - **ROC Curves**  
-  ![ROC Curves](reports/roc_curves.png)
+  ![ROC Curves](reports/visuals/roc_curves.png)
 
 - **Confusion Matrix (LogisticRegression)**  
-  ![Confusion Matrix](reports/confusion_matrix_LogisticRegression.png)
+  ![Confusion Matrix](reports/visuals/confusion_matrix_LogisticRegression.png)
+
+- **Feature Importance (Tree-based models)**  
+  ![Feature Importance](reports/visuals/feature_importance.png)
+
 
