@@ -43,7 +43,7 @@ def main(test_size=0.2, random_state=42):
     )
 
     # Save
-    (FEATURES_DIR / "train_texts.csv").to_csv  # ensure folder exists
+    
     X_train.to_csv(FEATURES_DIR / "train_texts.csv", index=False, header=True)
     y_train.to_csv(FEATURES_DIR / "train_labels.csv", index=False, header=True)
     X_test.to_csv(FEATURES_DIR / "test_texts.csv", index=False, header=True)

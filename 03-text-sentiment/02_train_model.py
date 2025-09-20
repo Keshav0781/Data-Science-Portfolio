@@ -24,11 +24,15 @@ MODELS_DIR.mkdir(parents=True, exist_ok=True)
 REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
 def load_features():
-    X_train = pd.read_csv(FEATURES_DIR / "train_texts.csv", squeeze=True)
-    y_train = pd.read_csv(FEATURES_DIR / "train_labels.csv", squeeze=True)
-    X_test = pd.read_csv(FEATURES_DIR / "test_texts.csv", squeeze=True)
-    y_test = pd.read_csv(FEATURES_DIR / "test_labels.csv", squeeze=True)
-    return X_train.values.ravel(), y_train.values.ravel(), X_test.values.ravel(), y_test.values.ravel()
+    X_train = pd.read_csv(FEATURES_DIR / 
+"train_texts.csv").squeeze("columns")
+    y_train = pd.read_csv(FEATURES_DIR / 
+"train_labels.csv").squeeze("columns")
+    X_test = pd.read_csv(FEATURES_DIR / 
+"test_texts.csv").squeeze("columns")
+    y_test = pd.read_csv(FEATURES_DIR / 
+"test_labels.csv").squeeze("columns")
+    return X_train, y_train, X_test, y_test
 
 def evaluate_and_save(name, y_true, y_pred, y_score=None):
     acc = accuracy_score(y_true, y_pred)
