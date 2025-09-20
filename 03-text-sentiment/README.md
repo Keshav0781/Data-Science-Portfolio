@@ -63,7 +63,7 @@ The models were evaluated on the test set. Both Logistic Regression and Random F
 ### Evaluation Visuals
 
 - **ROC Curves** — both models show perfect separation (AUC = 1.0). This happens due to synthetic data being clean and highly separable. On real reviews, curves would not be this perfect.  
-  ![ROC Curves](03-text-sentiment/reports/visuals/roc_curves.png)
+  ![ROC Curves](reports/visuals/roc_curves.png)
 
 - **Confusion Matrix** — shows zero misclassifications (all predictions correct). While ideal here, real-world data would include false positives and false negatives.  
   ![Confusion Matrix](03-text-sentiment/reports/visuals/confusion_matrix_LogisticRegression.png)
