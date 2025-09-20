@@ -41,13 +41,16 @@ python 03_evaluate_visualize.py
 ```
 ## Deliverables 
 
-- data/processed/reviews.csv — input dataset (generated or provided)
-- models/vectorizer.joblib — TF-IDF vectorizer
-- models/model_logreg.joblib — Logistic Regression model
-- models/model_rf.joblib — Random Forest model (optional)
-- reports/metrics.csv — performance metrics (accuracy, precision, recall, F1, ROC_AUC)
-- reports/predictions_test.csv — test predictions + probabilities
-- reports/visuals/*.png — ROC curves, confusion matrix, feature importance
+- data/processed/reviews.csv — input dataset (generated or provided)  
+- models/vectorizer.joblib — TF-IDF vectorizer  
+- models/model_logreg.joblib — Logistic Regression model  
+- models/model_rf.joblib — Random Forest model (optional)  
+- reports/metrics.csv — performance metrics (accuracy, precision, recall, F1, ROC_AUC)  
+- reports/predictions_test.csv — test predictions + probabilities  
+- reports/visuals/roc_curve.png — ROC curve comparison  
+- reports/visuals/confusion_matrix_logreg.png — confusion matrix for Logistic Regression  
+- reports/visuals/top_logreg_features.png — top positive/negative words (feature importance)  
+
 
 ## Results
 
