@@ -67,6 +67,18 @@ python 04_evaluate_visuals.py
 - `reports/predictions.csv` — test set predictions with probability and label  
 - `models/best_model.joblib` — trained model artifact ready for demo/serving
 
+## Model Training and Optimization
+
+Each model in this project was trained by minimizing an internal loss function provided by scikit-learn:
+
+- **Logistic Regression**: optimized **cross-entropy loss (log loss)** to distinguish churners from non-churners.  
+- **Random Forest**: each tree split minimized **Gini impurity**, improving separation at every decision node.  
+- **Gradient Boosting**: iteratively minimized **log loss**, combining weak learners to strengthen classification.  
+
+While loss functions were not explicitly coded in the pipeline, they are fundamental to how the algorithms learn patterns in data.  
+This ensures that models generalize well to unseen customers, balancing accuracy and recall.
+
+
 ## Results
 
 The models were evaluated on the test set to predict customer churn.  
