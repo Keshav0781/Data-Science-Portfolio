@@ -69,3 +69,22 @@ python 01-customer-churn/02_preprocessing.py
 python 01-customer-churn/03_train_model.py
 python 01-customer-churn/04_evaluate_visualize.py
 ```
+
+---
+
+### 🚀 Repository Status & Notes
+
+This portfolio is **actively maintained**.  
+To keep the repository lightweight and recruiter-friendly:
+
+- Large generated files (processed data, feature CSVs, trained models) are **not committed**.  
+- Each project provides scripts to **recreate all outputs locally** (`reports/`, `features/`, `models/`).  
+- Small sample CSVs and visuals (PNG) are included so results can be previewed directly on GitHub without running code.  
+
+---
+
+## 📫 Contact
+- **Email:** iamkeshav0781@gmail.com  
+- **Location:** Erlangen, Germany  
+- **LinkedIn:** [linkedin.com/in/keshavjha0781](https://linkedin.com/in/keshavjha0781)  
+
