@@ -57,7 +57,6 @@ My portfolio highlights **end-to-end data pipelines**, from synthetic data gener
 - `02-predictive-maintenance/reports/` — contains ROC, confusion matrix, metrics summary
 
 ---
----
 
 ### 3. [Text Sentiment Analysis — Multilingual Reviews (English + German)](03-text-sentiment/)
 **End-to-end text classification pipeline (sentiment analysis)**  
