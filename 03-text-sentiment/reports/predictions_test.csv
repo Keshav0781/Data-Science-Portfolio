@@ -1,0 +1,2001 @@
+text,label,pred_logreg,prob_logreg,pred_rf,prob_rf
+sehr enttäuscht mit der headphones,0,0,0.011900813274755903,0,0.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+sehr gutes preis leistungs verhältnis für meine tasche,1,1,0.9882605111964305,1,1.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+bad quality about the laptop,0,0,0.008156863165510765,0,0.0
+i love this product for my tasche,1,1,0.9925543799893324,1,1.0
+sehr gutes preis leistungs verhältnis für meine tasche,1,1,0.9882605111964305,1,1.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+tolles produkt für meine laptop,1,1,0.9886990618176775,1,1.0
+sehr enttäuscht mit der tasche,0,0,0.012778299386241863,0,0.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+funktioniert nicht mit der phone,0,0,0.012143266190507939,0,0.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+sehr gutes preis leistungs verhältnis für meine headphones,1,1,0.9884972671530611,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+sehr enttäuscht mit der tasche,0,0,0.012778299386241863,0,0.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+schlechte qualität mit der phone,0,0,0.011734464587205439,0,0.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+i love this product for my running shoes,1,1,0.9901971568895374,1,1.0
+kann ich nur empfehlen für meine kamera,1,1,0.9867599134614394,1,1.0
+tolles produkt für meine phone,1,1,0.9883858181123505,1,1.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+schlechte qualität mit der laptop,0,0,0.011630609944844059,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+bad quality about the laptop,0,0,0.008156863165510765,0,0.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+schlechte qualität mit der coffee maker,0,0,0.013417095208288035,0,0.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+nicht zu empfehlen mit der coffee maker,0,0,0.01322995709752725,0,0.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+bad quality about the headphones,0,0,0.007492248277080615,0,0.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+nicht zu empfehlen mit der backpack,0,0,0.012186843200679351,0,0.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+i love this product for my headphones,1,1,0.9921323945721425,1,1.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+waste of money about the headphones,0,0,0.007649162643454295,0,0.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+i love this product for my running shoes,1,1,0.9901971568895374,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+sehr enttäuscht mit der coffee maker,0,0,0.01501943400686739,0,0.0
+sehr zufrieden mit dem kauf für meine phone,1,1,0.9852359989889092,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+funktioniert nicht mit der kamera,0,0,0.011922164234760533,0,0.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+schlechte qualität mit der laptop,0,0,0.011630609944844059,0,0.0
+sehr enttäuscht mit der tasche,0,0,0.012778299386241863,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+works perfectly for my coffee maker,1,1,0.9893346650093662,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+nicht zu empfehlen mit der laptop,0,0,0.011894371157469927,0,0.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+kann ich nur empfehlen für meine running shoes,1,1,0.9843178446352581,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+schlechte qualität mit der kamera,0,0,0.011530084766862231,0,0.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+sehr zufrieden mit dem kauf für meine phone,1,1,0.9852359989889092,1,1.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+sehr gutes preis leistungs verhältnis für meine tasche,1,1,0.9882605111964305,1,1.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+funktioniert einwandfrei für meine running shoes,1,1,0.9835097518612715,1,1.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+funktioniert einwandfrei für meine tasche,1,1,0.9869211266455488,1,1.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+tolles produkt für meine phone,1,1,0.9883858181123505,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+tolles produkt für meine tasche,1,1,0.9876596143620247,1,1.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+nicht zu empfehlen mit der backpack,0,0,0.012186843200679351,0,0.0
+sehr gutes preis leistungs verhältnis für meine coffee maker,1,1,0.9864028968589372,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+nicht zu empfehlen mit der tasche,0,0,0.011788836768408341,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+nicht zu empfehlen mit der laptop,0,0,0.011894371157469927,0,0.0
+kann ich nur empfehlen für meine headphones,1,1,0.9866870247111492,1,1.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+funktioniert einwandfrei für meine laptop,1,1,0.9880690013733391,1,1.0
+sehr zufrieden mit dem kauf für meine backpack,1,1,0.9847251170765586,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+i love this product for my backpack,1,1,0.992490838001355,1,1.0
+funktioniert nicht mit der phone,0,0,0.012143266190507939,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+sehr enttäuscht mit der tasche,0,0,0.012778299386241863,0,0.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+sehr gutes preis leistungs verhältnis für meine tasche,1,1,0.9882605111964305,1,1.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+i love this product for my tasche,1,1,0.9925543799893324,1,1.0
+sehr zufrieden mit dem kauf für meine phone,1,1,0.9852359989889092,1,1.0
+bad quality about the headphones,0,0,0.007492248277080615,0,0.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+funktioniert nicht mit der kamera,0,0,0.011922164234760533,0,0.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+sehr gutes preis leistungs verhältnis für meine coffee maker,1,1,0.9864028968589372,1,1.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+kann ich nur empfehlen für meine kamera,1,1,0.9867599134614394,1,1.0
+product not as described about the tasche,0,0,0.007287157020360851,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+kann ich nur empfehlen für meine tasche,1,1,0.9863925498037577,1,1.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+kann ich nur empfehlen für meine running shoes,1,1,0.9843178446352581,1,1.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+funktioniert einwandfrei für meine phone,1,1,0.987722710886915,1,1.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+nicht zu empfehlen mit der coffee maker,0,0,0.01322995709752725,0,0.0
+nicht zu empfehlen mit der running shoes,0,0,0.014473327722042783,0,0.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+works perfectly for my coffee maker,1,1,0.9893346650093662,1,1.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+funktioniert nicht mit der headphones,0,0,0.011085871812323012,0,0.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+sehr enttäuscht mit der headphones,0,0,0.011900813274755903,0,0.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+nicht zu empfehlen mit der running shoes,0,0,0.014473327722042783,0,0.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+tolles produkt für meine tasche,1,1,0.9876596143620247,1,1.0
+nicht zu empfehlen mit der phone,0,0,0.011983208315414051,0,0.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+kann ich nur empfehlen für meine phone,1,1,0.9869802553394669,1,1.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+funktioniert nicht mit der phone,0,0,0.012143266190507939,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+terrible broke in days about the backpack,0,0,0.007633817401714701,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+very disappointed about the phone,0,0,0.007958753232076636,0,0.0
+sehr enttäuscht mit der kamera,0,0,0.01279012076910316,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+schlechte qualität mit der running shoes,0,0,0.01484330937785445,0,0.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+funktioniert einwandfrei für meine laptop,1,1,0.9880690013733391,1,1.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+amazing value for money for my kamera,1,1,0.9936260280616349,1,1.0
+tolles produkt für meine kamera,1,1,0.988143015238054,1,1.0
+funktioniert nicht mit der laptop,0,0,0.012028733919158964,0,0.0
+geldverschwendung mit der running shoes,0,0,0.015456445320880571,0,0.0
+sehr zufrieden mit dem kauf für meine laptop,1,1,0.9854928008101588,1,1.0
+sehr enttäuscht mit der phone,0,0,0.013026307480152547,0,0.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+schlechte qualität mit der backpack,0,0,0.011975684895488673,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+funktioniert nicht mit der tasche,0,0,0.011910954211076127,0,0.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+geldverschwendung mit der phone,0,0,0.010967456647861227,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+kann ich nur empfehlen für meine backpack,1,1,0.986491557071975,1,1.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+works perfectly for my coffee maker,1,1,0.9893346650093662,1,1.0
+tolles produkt für meine tasche,1,1,0.9876596143620247,1,1.0
+sehr gutes preis leistungs verhältnis für meine phone,1,1,0.9887379262029443,1,1.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+tolles produkt für meine coffee maker,1,1,0.9843696667300711,1,1.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+do not recommend about the running shoes,0,0,0.010031605684052623,0,0.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+sehr zufrieden mit dem kauf für meine running shoes,1,1,0.982589806455681,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+kann ich nur empfehlen für meine laptop,1,1,0.9872282533797928,1,1.0
+funktioniert einwandfrei für meine backpack,1,1,0.987059984536293,1,1.0
+nicht zu empfehlen mit der backpack,0,0,0.012186843200679351,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+nicht zu empfehlen mit der phone,0,0,0.011983208315414051,0,0.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+funktioniert nicht mit der backpack,0,0,0.012410339371970797,0,0.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+i love this product for my backpack,1,1,0.992490838001355,1,1.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+nicht zu empfehlen mit der running shoes,0,0,0.014473327722042783,0,0.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+funktioniert einwandfrei für meine kamera,1,1,0.9874574934860529,1,1.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+schlechte qualität mit der laptop,0,0,0.011630609944844059,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+sehr zufrieden mit dem kauf für meine kamera,1,1,0.9849980469348856,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+bad quality about the headphones,0,0,0.007492248277080615,0,0.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+very disappointed about the coffee maker,0,0,0.010369937179822375,0,0.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+tolles produkt für meine headphones,1,1,0.9880683304349107,1,1.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+very disappointed about the phone,0,0,0.007958753232076636,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+funktioniert einwandfrei für meine backpack,1,1,0.987059984536293,1,1.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+sehr zufrieden mit dem kauf für meine coffee maker,1,1,0.9823267516140017,1,1.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+i love this product for my tasche,1,1,0.9925543799893324,1,1.0
+sehr zufrieden mit dem kauf für meine coffee maker,1,1,0.9823267516140017,1,1.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+funktioniert nicht mit der kamera,0,0,0.011922164234760533,0,0.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+funktioniert nicht mit der running shoes,0,0,0.015633923360921415,0,0.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+sehr zufrieden mit dem kauf für meine backpack,1,1,0.9847251170765586,1,1.0
+funktioniert nicht mit der tasche,0,0,0.011910954211076127,0,0.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+sehr gutes preis leistungs verhältnis für meine tasche,1,1,0.9882605111964305,1,1.0
+schlechte qualität mit der kamera,0,0,0.011530084766862231,0,0.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+i love this product for my backpack,1,1,0.992490838001355,1,1.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+waste of money about the headphones,0,0,0.007649162643454295,0,0.0
+very disappointed about the phone,0,0,0.007958753232076636,0,0.0
+sehr zufrieden mit dem kauf für meine headphones,1,1,0.9849177818301093,1,1.0
+nicht zu empfehlen mit der running shoes,0,0,0.014473327722042783,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+kann ich nur empfehlen für meine tasche,1,1,0.9863925498037577,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+funktioniert einwandfrei für meine backpack,1,1,0.987059984536293,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+kann ich nur empfehlen für meine backpack,1,1,0.986491557071975,1,1.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+works perfectly for my coffee maker,1,1,0.9893346650093662,1,1.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+sehr zufrieden mit dem kauf für meine kamera,1,1,0.9849980469348856,1,1.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+funktioniert einwandfrei für meine running shoes,1,1,0.9835097518612715,1,1.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+funktioniert einwandfrei für meine running shoes,1,1,0.9835097518612715,1,1.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+sehr zufrieden mit dem kauf für meine running shoes,1,1,0.982589806455681,1,1.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+very disappointed about the coffee maker,0,0,0.010369937179822375,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+sehr enttäuscht mit der tasche,0,0,0.012778299386241863,0,0.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+funktioniert nicht mit der coffee maker,0,0,0.014070076241502322,0,0.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+schlechte qualität mit der kamera,0,0,0.011530084766862231,0,0.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+kann ich nur empfehlen für meine laptop,1,1,0.9872282533797928,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+amazing value for money for my kamera,1,1,0.9936260280616349,1,1.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+sehr gutes preis leistungs verhältnis für meine tasche,1,1,0.9882605111964305,1,1.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+funktioniert nicht mit der running shoes,0,0,0.015633923360921415,0,0.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+funktioniert nicht mit der kamera,0,0,0.011922164234760533,0,0.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+funktioniert einwandfrei für meine tasche,1,1,0.9869211266455488,1,1.0
+excellent quality and fast delivery for my coffee maker,1,1,0.9908726524597764,1,1.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+kann ich nur empfehlen für meine running shoes,1,1,0.9843178446352581,1,1.0
+funktioniert einwandfrei für meine phone,1,1,0.987722710886915,1,1.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+tolles produkt für meine backpack,1,1,0.9877851263558444,1,1.0
+bad quality about the headphones,0,0,0.007492248277080615,0,0.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+sehr gutes preis leistungs verhältnis für meine coffee maker,1,1,0.9864028968589372,1,1.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+funktioniert einwandfrei für meine headphones,1,1,0.9873764887267686,1,1.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+i love this product for my backpack,1,1,0.992490838001355,1,1.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+sehr gutes preis leistungs verhältnis für meine coffee maker,1,1,0.9864028968589372,1,1.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+funktioniert nicht mit der kamera,0,0,0.011922164234760533,0,0.0
+funktioniert nicht mit der coffee maker,0,0,0.014070076241502322,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+tolles produkt für meine backpack,1,1,0.9877851263558444,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+nicht zu empfehlen mit der backpack,0,0,0.012186843200679351,0,0.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+kann ich nur empfehlen für meine coffee maker,1,1,0.9840816668059632,1,1.0
+schlechte qualität mit der laptop,0,0,0.011630609944844059,0,0.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+i love this product for my headphones,1,1,0.9921323945721425,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+sehr enttäuscht mit der phone,0,0,0.013026307480152547,0,0.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+sehr zufrieden mit dem kauf für meine coffee maker,1,1,0.9823267516140017,1,1.0
+geldverschwendung mit der laptop,0,0,0.010833121018444358,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+schlechte qualität mit der tasche,0,0,0.011519985312979339,0,0.0
+geldverschwendung mit der phone,0,0,0.010967456647861227,0,0.0
+i love this product for my tasche,1,1,0.9925543799893324,1,1.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+sehr enttäuscht mit der headphones,0,0,0.011900813274755903,0,0.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+bad quality about the laptop,0,0,0.008156863165510765,0,0.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+geldverschwendung mit der headphones,0,0,0.00980088960013873,0,0.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+sehr zufrieden mit dem kauf für meine headphones,1,1,0.9849177818301093,1,1.0
+kann ich nur empfehlen für meine headphones,1,1,0.9866870247111492,1,1.0
+funktioniert einwandfrei für meine kamera,1,1,0.9874574934860529,1,1.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+sehr enttäuscht mit der phone,0,0,0.013026307480152547,0,0.0
+kann ich nur empfehlen für meine laptop,1,1,0.9872282533797928,1,1.0
+sehr gutes preis leistungs verhältnis für meine backpack,1,1,0.9883407525595341,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+kann ich nur empfehlen für meine coffee maker,1,1,0.9840816668059632,1,1.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+schlechte qualität mit der backpack,0,0,0.011975684895488673,0,0.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+i love this product for my running shoes,1,1,0.9901971568895374,1,1.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+funktioniert nicht mit der kamera,0,0,0.011922164234760533,0,0.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+funktioniert einwandfrei für meine backpack,1,1,0.987059984536293,1,1.0
+i love this product for my headphones,1,1,0.9921323945721425,1,1.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+geldverschwendung mit der phone,0,0,0.010967456647861227,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+product not as described about the tasche,0,0,0.007287157020360851,0,0.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+geldverschwendung mit der headphones,0,0,0.00980088960013873,0,0.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+funktioniert einwandfrei für meine phone,1,1,0.987722710886915,1,1.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+i love this product for my backpack,1,1,0.992490838001355,1,1.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+sehr enttäuscht mit der headphones,0,0,0.011900813274755903,0,0.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+schlechte qualität mit der laptop,0,0,0.011630609944844059,0,0.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+works perfectly for my coffee maker,1,1,0.9893346650093662,1,1.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+sehr zufrieden mit dem kauf für meine kamera,1,1,0.9849980469348856,1,1.0
+bad quality about the laptop,0,0,0.008156863165510765,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+kann ich nur empfehlen für meine backpack,1,1,0.986491557071975,1,1.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+terrible broke in days about the backpack,0,0,0.007633817401714701,0,0.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+do not recommend about the running shoes,0,0,0.010031605684052623,0,0.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+nicht zu empfehlen mit der running shoes,0,0,0.014473327722042783,0,0.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+tolles produkt für meine tasche,1,1,0.9876596143620247,1,1.0
+schlechte qualität mit der kamera,0,0,0.011530084766862231,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+schlechte qualität mit der tasche,0,0,0.011519985312979339,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+schlechte qualität mit der tasche,0,0,0.011519985312979339,0,0.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+tolles produkt für meine backpack,1,1,0.9877851263558444,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+i love this product for my running shoes,1,1,0.9901971568895374,1,1.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+funktioniert nicht mit der kamera,0,0,0.011922164234760533,0,0.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+nicht zu empfehlen mit der tasche,0,0,0.011788836768408341,0,0.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+sehr gutes preis leistungs verhältnis für meine coffee maker,1,1,0.9864028968589372,1,1.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+kann ich nur empfehlen für meine kamera,1,1,0.9867599134614394,1,1.0
+tolles produkt für meine tasche,1,1,0.9876596143620247,1,1.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+i love this product for my headphones,1,1,0.9921323945721425,1,1.0
+schlechte qualität mit der laptop,0,0,0.011630609944844059,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+tolles produkt für meine headphones,1,1,0.9880683304349107,1,1.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+tolles produkt für meine backpack,1,1,0.9877851263558444,1,1.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+funktioniert einwandfrei für meine kamera,1,1,0.9874574934860529,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+funktioniert nicht mit der running shoes,0,0,0.015633923360921415,0,0.0
+funktioniert nicht mit der headphones,0,0,0.011085871812323012,0,0.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+tolles produkt für meine coffee maker,1,1,0.9843696667300711,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+schlechte qualität mit der running shoes,0,0,0.01484330937785445,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+amazing value for money for my kamera,1,1,0.9936260280616349,1,1.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+nicht zu empfehlen mit der phone,0,0,0.011983208315414051,0,0.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+funktioniert nicht mit der running shoes,0,0,0.015633923360921415,0,0.0
+nicht zu empfehlen mit der tasche,0,0,0.011788836768408341,0,0.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+kann ich nur empfehlen für meine phone,1,1,0.9869802553394669,1,1.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+funktioniert nicht mit der tasche,0,0,0.011910954211076127,0,0.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+sehr zufrieden mit dem kauf für meine backpack,1,1,0.9847251170765586,1,1.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+sehr zufrieden mit dem kauf für meine coffee maker,1,1,0.9823267516140017,1,1.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+funktioniert einwandfrei für meine tasche,1,1,0.9869211266455488,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+works perfectly for my coffee maker,1,1,0.9893346650093662,1,1.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+kann ich nur empfehlen für meine headphones,1,1,0.9866870247111492,1,1.0
+geldverschwendung mit der kamera,0,0,0.010731724818127364,0,0.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+nicht zu empfehlen mit der laptop,0,0,0.011894371157469927,0,0.0
+sehr zufrieden mit dem kauf für meine backpack,1,1,0.9847251170765586,1,1.0
+geldverschwendung mit der laptop,0,0,0.010833121018444358,0,0.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+nicht zu empfehlen mit der phone,0,0,0.011983208315414051,0,0.0
+sehr zufrieden mit dem kauf für meine headphones,1,1,0.9849177818301093,1,1.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+geldverschwendung mit der running shoes,0,0,0.015456445320880571,0,0.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+funktioniert einwandfrei für meine running shoes,1,1,0.9835097518612715,1,1.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+tolles produkt für meine tasche,1,1,0.9876596143620247,1,1.0
+i love this product for my headphones,1,1,0.9921323945721425,1,1.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+nicht zu empfehlen mit der phone,0,0,0.011983208315414051,0,0.0
+sehr zufrieden mit dem kauf für meine laptop,1,1,0.9854928008101588,1,1.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+schlechte qualität mit der phone,0,0,0.011734464587205439,0,0.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+sehr enttäuscht mit der laptop,0,0,0.012905124657253762,0,0.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+product not as described about the tasche,0,0,0.007287157020360851,0,0.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+i love this product for my backpack,1,1,0.992490838001355,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+amazing value for money for my kamera,1,1,0.9936260280616349,1,1.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+kann ich nur empfehlen für meine laptop,1,1,0.9872282533797928,1,1.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+schlechte qualität mit der backpack,0,0,0.011975684895488673,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+nicht zu empfehlen mit der coffee maker,0,0,0.01322995709752725,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+schlechte qualität mit der kamera,0,0,0.011530084766862231,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+bad quality about the laptop,0,0,0.008156863165510765,0,0.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+nicht zu empfehlen mit der laptop,0,0,0.011894371157469927,0,0.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+sehr gutes preis leistungs verhältnis für meine coffee maker,1,1,0.9864028968589372,1,1.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+geldverschwendung mit der laptop,0,0,0.010833121018444358,0,0.0
+nicht zu empfehlen mit der backpack,0,0,0.012186843200679351,0,0.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+sehr enttäuscht mit der phone,0,0,0.013026307480152547,0,0.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+tolles produkt für meine backpack,1,1,0.9877851263558444,1,1.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+funktioniert einwandfrei für meine headphones,1,1,0.9873764887267686,1,1.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+funktioniert einwandfrei für meine tasche,1,1,0.9869211266455488,1,1.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+bad quality about the laptop,0,0,0.008156863165510765,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+nicht zu empfehlen mit der tasche,0,0,0.011788836768408341,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+schlechte qualität mit der tasche,0,0,0.011519985312979339,0,0.0
+funktioniert einwandfrei für meine laptop,1,1,0.9880690013733391,1,1.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+product not as described about the tasche,0,0,0.007287157020360851,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+nicht zu empfehlen mit der running shoes,0,0,0.014473327722042783,0,0.0
+nicht zu empfehlen mit der running shoes,0,0,0.014473327722042783,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+geldverschwendung mit der coffee maker,0,0,0.013652929851190035,0,0.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+schlechte qualität mit der backpack,0,0,0.011975684895488673,0,0.0
+funktioniert einwandfrei für meine tasche,1,1,0.9869211266455488,1,1.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+nicht zu empfehlen mit der tasche,0,0,0.011788836768408341,0,0.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+waste of money about the headphones,0,0,0.007649162643454295,0,0.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+sehr gutes preis leistungs verhältnis für meine headphones,1,1,0.9884972671530611,1,1.0
+bad quality about the laptop,0,0,0.008156863165510765,0,0.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+funktioniert einwandfrei für meine kamera,1,1,0.9874574934860529,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+product not as described about the tasche,0,0,0.007287157020360851,0,0.0
+sehr enttäuscht mit der coffee maker,0,0,0.01501943400686739,0,0.0
+kann ich nur empfehlen für meine phone,1,1,0.9869802553394669,1,1.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+terrible broke in days about the backpack,0,0,0.007633817401714701,0,0.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+funktioniert nicht mit der tasche,0,0,0.011910954211076127,0,0.0
+geldverschwendung mit der kamera,0,0,0.010731724818127364,0,0.0
+geldverschwendung mit der headphones,0,0,0.00980088960013873,0,0.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+nicht zu empfehlen mit der laptop,0,0,0.011894371157469927,0,0.0
+schlechte qualität mit der laptop,0,0,0.011630609944844059,0,0.0
+kann ich nur empfehlen für meine kamera,1,1,0.9867599134614394,1,1.0
+excellent quality and fast delivery for my coffee maker,1,1,0.9908726524597764,1,1.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+funktioniert einwandfrei für meine kamera,1,1,0.9874574934860529,1,1.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+terrible broke in days about the backpack,0,0,0.007633817401714701,0,0.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+i love this product for my headphones,1,1,0.9921323945721425,1,1.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+schlechte qualität mit der headphones,0,0,0.01076344341440137,0,0.0
+sehr zufrieden mit dem kauf für meine headphones,1,1,0.9849177818301093,1,1.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+nicht zu empfehlen mit der backpack,0,0,0.012186843200679351,0,0.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+kann ich nur empfehlen für meine kamera,1,1,0.9867599134614394,1,1.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+funktioniert nicht mit der headphones,0,0,0.011085871812323012,0,0.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+sehr zufrieden mit dem kauf für meine running shoes,1,1,0.982589806455681,1,1.0
+very disappointed about the phone,0,0,0.007958753232076636,0,0.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+sehr zufrieden mit dem kauf für meine kamera,1,1,0.9849980469348856,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+works perfectly for my coffee maker,1,1,0.9893346650093662,1,1.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+schlechte qualität mit der laptop,0,0,0.011630609944844059,0,0.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+nicht zu empfehlen mit der running shoes,0,0,0.014473327722042783,0,0.0
+geldverschwendung mit der tasche,0,0,0.01071817710898417,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+tolles produkt für meine kamera,1,1,0.988143015238054,1,1.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+kann ich nur empfehlen für meine coffee maker,1,1,0.9840816668059632,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+funktioniert einwandfrei für meine running shoes,1,1,0.9835097518612715,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+schlechte qualität mit der laptop,0,0,0.011630609944844059,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+works perfectly for my coffee maker,1,1,0.9893346650093662,1,1.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+nicht zu empfehlen mit der kamera,0,0,0.011797285850341717,0,0.0
+works perfectly for my coffee maker,1,1,0.9893346650093662,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+sehr enttäuscht mit der coffee maker,0,0,0.01501943400686739,0,0.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+geldverschwendung mit der headphones,0,0,0.00980088960013873,0,0.0
+sehr zufrieden mit dem kauf für meine laptop,1,1,0.9854928008101588,1,1.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+schlechte qualität mit der backpack,0,0,0.011975684895488673,0,0.0
+tolles produkt für meine coffee maker,1,1,0.9843696667300711,1,1.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+product not as described about the tasche,0,0,0.007287157020360851,0,0.0
+sehr enttäuscht mit der phone,0,0,0.013026307480152547,0,0.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+very disappointed about the phone,0,0,0.007958753232076636,0,0.0
+i love this product for my backpack,1,1,0.992490838001355,1,1.0
+do not recommend about the running shoes,0,0,0.010031605684052623,0,0.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+schlechte qualität mit der running shoes,0,0,0.01484330937785445,0,0.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+kann ich nur empfehlen für meine tasche,1,1,0.9863925498037577,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+sehr enttäuscht mit der tasche,0,0,0.012778299386241863,0,0.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+very disappointed about the phone,0,0,0.007958753232076636,0,0.0
+schlechte qualität mit der kamera,0,0,0.011530084766862231,0,0.0
+geldverschwendung mit der headphones,0,0,0.00980088960013873,0,0.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+sehr gutes preis leistungs verhältnis für meine headphones,1,1,0.9884972671530611,1,1.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+sehr zufrieden mit dem kauf für meine running shoes,1,1,0.982589806455681,1,1.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+sehr gutes preis leistungs verhältnis für meine phone,1,1,0.9887379262029443,1,1.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+funktioniert nicht mit der tasche,0,0,0.011910954211076127,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+kann ich nur empfehlen für meine running shoes,1,1,0.9843178446352581,1,1.0
+do not recommend about the running shoes,0,0,0.010031605684052623,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+geldverschwendung mit der coffee maker,0,0,0.013652929851190035,0,0.0
+geldverschwendung mit der headphones,0,0,0.00980088960013873,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+nicht zu empfehlen mit der phone,0,0,0.011983208315414051,0,0.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+tolles produkt für meine laptop,1,1,0.9886990618176775,1,1.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+sehr zufrieden mit dem kauf für meine kamera,1,1,0.9849980469348856,1,1.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+bad quality about the laptop,0,0,0.008156863165510765,0,0.0
+sehr gutes preis leistungs verhältnis für meine laptop,1,1,0.9889390694618083,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+nicht zu empfehlen mit der coffee maker,0,0,0.01322995709752725,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+terrible broke in days about the backpack,0,0,0.007633817401714701,0,0.0
+i love this product for my tasche,1,1,0.9925543799893324,1,1.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+funktioniert einwandfrei für meine running shoes,1,1,0.9835097518612715,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+kann ich nur empfehlen für meine coffee maker,1,1,0.9840816668059632,1,1.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+sehr gutes preis leistungs verhältnis für meine phone,1,1,0.9887379262029443,1,1.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+geldverschwendung mit der phone,0,0,0.010967456647861227,0,0.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+sehr zufrieden mit dem kauf für meine running shoes,1,1,0.982589806455681,1,1.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+kann ich nur empfehlen für meine tasche,1,1,0.9863925498037577,1,1.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+i love this product for my headphones,1,1,0.9921323945721425,1,1.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+schlechte qualität mit der coffee maker,0,0,0.013417095208288035,0,0.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+funktioniert einwandfrei für meine headphones,1,1,0.9873764887267686,1,1.0
+geldverschwendung mit der headphones,0,0,0.00980088960013873,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+funktioniert nicht mit der running shoes,0,0,0.015633923360921415,0,0.0
+sehr zufrieden mit dem kauf für meine kamera,1,1,0.9849980469348856,1,1.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+terrible broke in days about the backpack,0,0,0.007633817401714701,0,0.0
+funktioniert einwandfrei für meine kamera,1,1,0.9874574934860529,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+geldverschwendung mit der tasche,0,0,0.01071817710898417,0,0.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+geldverschwendung mit der laptop,0,0,0.010833121018444358,0,0.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+funktioniert nicht mit der phone,0,0,0.012143266190507939,0,0.0
+geldverschwendung mit der running shoes,0,0,0.015456445320880571,0,0.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+nicht zu empfehlen mit der laptop,0,0,0.011894371157469927,0,0.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+geldverschwendung mit der laptop,0,0,0.010833121018444358,0,0.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+funktioniert einwandfrei für meine laptop,1,1,0.9880690013733391,1,1.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+funktioniert nicht mit der kamera,0,0,0.011922164234760533,0,0.0
+schlechte qualität mit der running shoes,0,0,0.01484330937785445,0,0.0
+schlechte qualität mit der coffee maker,0,0,0.013417095208288035,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+kann ich nur empfehlen für meine coffee maker,1,1,0.9840816668059632,1,1.0
+geldverschwendung mit der kamera,0,0,0.010731724818127364,0,0.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+funktioniert nicht mit der backpack,0,0,0.012410339371970797,0,0.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+funktioniert einwandfrei für meine tasche,1,1,0.9869211266455488,1,1.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+geldverschwendung mit der laptop,0,0,0.010833121018444358,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+sehr gutes preis leistungs verhältnis für meine phone,1,1,0.9887379262029443,1,1.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+sehr zufrieden mit dem kauf für meine backpack,1,1,0.9847251170765586,1,1.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+sehr zufrieden mit dem kauf für meine headphones,1,1,0.9849177818301093,1,1.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+sehr enttäuscht mit der tasche,0,0,0.012778299386241863,0,0.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+i love this product for my headphones,1,1,0.9921323945721425,1,1.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+funktioniert einwandfrei für meine phone,1,1,0.987722710886915,1,1.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+excellent quality and fast delivery for my coffee maker,1,1,0.9908726524597764,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+kann ich nur empfehlen für meine headphones,1,1,0.9866870247111492,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+funktioniert nicht mit der running shoes,0,0,0.015633923360921415,0,0.0
+geldverschwendung mit der tasche,0,0,0.01071817710898417,0,0.0
+kann ich nur empfehlen für meine running shoes,1,1,0.9843178446352581,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+schlechte qualität mit der laptop,0,0,0.011630609944844059,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+nicht zu empfehlen mit der coffee maker,0,0,0.01322995709752725,0,0.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+schlechte qualität mit der kamera,0,0,0.011530084766862231,0,0.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+sehr enttäuscht mit der laptop,0,0,0.012905124657253762,0,0.0
+tolles produkt für meine headphones,1,1,0.9880683304349107,1,1.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+kann ich nur empfehlen für meine laptop,1,1,0.9872282533797928,1,1.0
+kann ich nur empfehlen für meine backpack,1,1,0.986491557071975,1,1.0
+funktioniert nicht mit der phone,0,0,0.012143266190507939,0,0.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+tolles produkt für meine coffee maker,1,1,0.9843696667300711,1,1.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+schlechte qualität mit der kamera,0,0,0.011530084766862231,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+sehr gutes preis leistungs verhältnis für meine kamera,1,1,0.9885573011985924,1,1.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+sehr gutes preis leistungs verhältnis für meine headphones,1,1,0.9884972671530611,1,1.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+nicht zu empfehlen mit der coffee maker,0,0,0.01322995709752725,0,0.0
+sehr gutes preis leistungs verhältnis für meine headphones,1,1,0.9884972671530611,1,1.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+sehr zufrieden mit dem kauf für meine phone,1,1,0.9852359989889092,1,1.0
+sehr gutes preis leistungs verhältnis für meine phone,1,1,0.9887379262029443,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+tolles produkt für meine headphones,1,1,0.9880683304349107,1,1.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+sehr zufrieden mit dem kauf für meine backpack,1,1,0.9847251170765586,1,1.0
+kann ich nur empfehlen für meine coffee maker,1,1,0.9840816668059632,1,1.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+funktioniert nicht mit der coffee maker,0,0,0.014070076241502322,0,0.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+sehr zufrieden mit dem kauf für meine kamera,1,1,0.9849980469348856,1,1.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+funktioniert einwandfrei für meine laptop,1,1,0.9880690013733391,1,1.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+sehr gutes preis leistungs verhältnis für meine kamera,1,1,0.9885573011985924,1,1.0
+funktioniert nicht mit der tasche,0,0,0.011910954211076127,0,0.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+geldverschwendung mit der tasche,0,0,0.01071817710898417,0,0.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+excellent quality and fast delivery for my coffee maker,1,1,0.9908726524597764,1,1.0
+sehr gutes preis leistungs verhältnis für meine phone,1,1,0.9887379262029443,1,1.0
+funktioniert nicht mit der laptop,0,0,0.012028733919158964,0,0.0
+geldverschwendung mit der tasche,0,0,0.01071817710898417,0,0.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+sehr enttäuscht mit der tasche,0,0,0.012778299386241863,0,0.0
+tolles produkt für meine headphones,1,1,0.9880683304349107,1,1.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+geldverschwendung mit der kamera,0,0,0.010731724818127364,0,0.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+kann ich nur empfehlen für meine kamera,1,1,0.9867599134614394,1,1.0
+i love this product for my headphones,1,1,0.9921323945721425,1,1.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+funktioniert nicht mit der headphones,0,0,0.011085871812323012,0,0.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+schlechte qualität mit der phone,0,0,0.011734464587205439,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+kann ich nur empfehlen für meine tasche,1,1,0.9863925498037577,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+geldverschwendung mit der running shoes,0,0,0.015456445320880571,0,0.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+funktioniert einwandfrei für meine laptop,1,1,0.9880690013733391,1,1.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+nicht zu empfehlen mit der tasche,0,0,0.011788836768408341,0,0.0
+kann ich nur empfehlen für meine backpack,1,1,0.986491557071975,1,1.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+funktioniert einwandfrei für meine running shoes,1,1,0.9835097518612715,1,1.0
+schlechte qualität mit der backpack,0,0,0.011975684895488673,0,0.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+sehr gutes preis leistungs verhältnis für meine backpack,1,1,0.9883407525595341,1,1.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+geldverschwendung mit der running shoes,0,0,0.015456445320880571,0,0.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+excellent quality and fast delivery for my coffee maker,1,1,0.9908726524597764,1,1.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+amazing value for money for my kamera,1,1,0.9936260280616349,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+kann ich nur empfehlen für meine phone,1,1,0.9869802553394669,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+very disappointed about the phone,0,0,0.007958753232076636,0,0.0
+funktioniert nicht mit der coffee maker,0,0,0.014070076241502322,0,0.0
+kann ich nur empfehlen für meine kamera,1,1,0.9867599134614394,1,1.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+nicht zu empfehlen mit der phone,0,0,0.011983208315414051,0,0.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+sehr gutes preis leistungs verhältnis für meine headphones,1,1,0.9884972671530611,1,1.0
+kann ich nur empfehlen für meine kamera,1,1,0.9867599134614394,1,1.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+terrible broke in days about the backpack,0,0,0.007633817401714701,0,0.0
+kann ich nur empfehlen für meine tasche,1,1,0.9863925498037577,1,1.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+tolles produkt für meine tasche,1,1,0.9876596143620247,1,1.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+nicht zu empfehlen mit der running shoes,0,0,0.014473327722042783,0,0.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+i love this product for my tasche,1,1,0.9925543799893324,1,1.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+i love this product for my running shoes,1,1,0.9901971568895374,1,1.0
+tolles produkt für meine tasche,1,1,0.9876596143620247,1,1.0
+nicht zu empfehlen mit der tasche,0,0,0.011788836768408341,0,0.0
+bad quality about the headphones,0,0,0.007492248277080615,0,0.0
+i love this product for my tasche,1,1,0.9925543799893324,1,1.0
+kann ich nur empfehlen für meine phone,1,1,0.9869802553394669,1,1.0
+tolles produkt für meine headphones,1,1,0.9880683304349107,1,1.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+funktioniert einwandfrei für meine kamera,1,1,0.9874574934860529,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+geldverschwendung mit der laptop,0,0,0.010833121018444358,0,0.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+sehr gutes preis leistungs verhältnis für meine headphones,1,1,0.9884972671530611,1,1.0
+product not as described about the tasche,0,0,0.007287157020360851,0,0.0
+sehr enttäuscht mit der headphones,0,0,0.011900813274755903,0,0.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+geldverschwendung mit der headphones,0,0,0.00980088960013873,0,0.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+nicht zu empfehlen mit der coffee maker,0,0,0.01322995709752725,0,0.0
+geldverschwendung mit der kamera,0,0,0.010731724818127364,0,0.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+do not recommend about the running shoes,0,0,0.010031605684052623,0,0.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+funktioniert nicht mit der backpack,0,0,0.012410339371970797,0,0.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+kann ich nur empfehlen für meine headphones,1,1,0.9866870247111492,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+bad quality about the headphones,0,0,0.007492248277080615,0,0.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+kann ich nur empfehlen für meine kamera,1,1,0.9867599134614394,1,1.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+funktioniert einwandfrei für meine running shoes,1,1,0.9835097518612715,1,1.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+kann ich nur empfehlen für meine tasche,1,1,0.9863925498037577,1,1.0
+sehr zufrieden mit dem kauf für meine coffee maker,1,1,0.9823267516140017,1,1.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+i love this product for my tasche,1,1,0.9925543799893324,1,1.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+nicht zu empfehlen mit der kamera,0,0,0.011797285850341717,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+schlechte qualität mit der tasche,0,0,0.011519985312979339,0,0.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+excellent quality and fast delivery for my running shoes,1,1,0.9913921693838657,1,1.0
+sehr enttäuscht mit der laptop,0,0,0.012905124657253762,0,0.0
+funktioniert einwandfrei für meine phone,1,1,0.987722710886915,1,1.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+nicht zu empfehlen mit der kamera,0,0,0.011797285850341717,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+sehr zufrieden mit dem kauf für meine running shoes,1,1,0.982589806455681,1,1.0
+kann ich nur empfehlen für meine backpack,1,1,0.986491557071975,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+sehr gutes preis leistungs verhältnis für meine backpack,1,1,0.9883407525595341,1,1.0
+waste of money about the headphones,0,0,0.007649162643454295,0,0.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+product not as described about the tasche,0,0,0.007287157020360851,0,0.0
+kann ich nur empfehlen für meine coffee maker,1,1,0.9840816668059632,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+geldverschwendung mit der phone,0,0,0.010967456647861227,0,0.0
+schlechte qualität mit der kamera,0,0,0.011530084766862231,0,0.0
+funktioniert nicht mit der backpack,0,0,0.012410339371970797,0,0.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+sehr zufrieden mit dem kauf für meine coffee maker,1,1,0.9823267516140017,1,1.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+funktioniert nicht mit der kamera,0,0,0.011922164234760533,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+kann ich nur empfehlen für meine coffee maker,1,1,0.9840816668059632,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+geldverschwendung mit der headphones,0,0,0.00980088960013873,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+funktioniert einwandfrei für meine tasche,1,1,0.9869211266455488,1,1.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+sehr zufrieden mit dem kauf für meine running shoes,1,1,0.982589806455681,1,1.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+geldverschwendung mit der tasche,0,0,0.01071817710898417,0,0.0
+schlechte qualität mit der phone,0,0,0.011734464587205439,0,0.0
+tolles produkt für meine headphones,1,1,0.9880683304349107,1,1.0
+amazing value for money for my kamera,1,1,0.9936260280616349,1,1.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+funktioniert einwandfrei für meine coffee maker,1,1,0.9832524732300487,1,1.0
+schlechte qualität mit der coffee maker,0,0,0.013417095208288035,0,0.0
+nicht zu empfehlen mit der tasche,0,0,0.011788836768408341,0,0.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+geldverschwendung mit der coffee maker,0,0,0.013652929851190035,0,0.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+kann ich nur empfehlen für meine phone,1,1,0.9869802553394669,1,1.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+sehr zufrieden mit dem kauf für meine laptop,1,1,0.9854928008101588,1,1.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+schlechte qualität mit der backpack,0,0,0.011975684895488673,0,0.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+sehr enttäuscht mit der kamera,0,0,0.01279012076910316,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+bad quality about the coffee maker,0,0,0.010534081984776907,0,0.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+amazing value for money for my kamera,1,1,0.9936260280616349,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+i love this product for my running shoes,1,1,0.9901971568895374,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+sehr zufrieden mit dem kauf für meine coffee maker,1,1,0.9823267516140017,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+geldverschwendung mit der tasche,0,0,0.01071817710898417,0,0.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+do not recommend about the running shoes,0,0,0.010031605684052623,0,0.0
+very disappointed about the coffee maker,0,0,0.010369937179822375,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+amazing value for money for my headphones,1,1,0.9933842618149019,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+i love this product for my backpack,1,1,0.992490838001355,1,1.0
+i love this product for my tasche,1,1,0.9925543799893324,1,1.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+funktioniert einwandfrei für meine laptop,1,1,0.9880690013733391,1,1.0
+tolles produkt für meine phone,1,1,0.9883858181123505,1,1.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+sehr enttäuscht mit der kamera,0,0,0.01279012076910316,0,0.0
+very disappointed about the phone,0,0,0.007958753232076636,0,0.0
+nicht zu empfehlen mit der phone,0,0,0.011983208315414051,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+sehr zufrieden mit dem kauf für meine running shoes,1,1,0.982589806455681,1,1.0
+sehr gutes preis leistungs verhältnis für meine kamera,1,1,0.9885573011985924,1,1.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+schlechte qualität mit der phone,0,0,0.011734464587205439,0,0.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+tolles produkt für meine kamera,1,1,0.988143015238054,1,1.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+amazing value for money for my phone,1,1,0.993807987183599,1,1.0
+funktioniert nicht mit der running shoes,0,0,0.015633923360921415,0,0.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+sehr gutes preis leistungs verhältnis für meine backpack,1,1,0.9883407525595341,1,1.0
+nicht zu empfehlen mit der tasche,0,0,0.011788836768408341,0,0.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+sehr enttäuscht mit der kamera,0,0,0.01279012076910316,0,0.0
+sehr zufrieden mit dem kauf für meine laptop,1,1,0.9854928008101588,1,1.0
+nicht zu empfehlen mit der kamera,0,0,0.011797285850341717,0,0.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+sehr zufrieden mit dem kauf für meine phone,1,1,0.9852359989889092,1,1.0
+sehr enttäuscht mit der phone,0,0,0.013026307480152547,0,0.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+geldverschwendung mit der tasche,0,0,0.01071817710898417,0,0.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+amazing value for money for my kamera,1,1,0.9936260280616349,1,1.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+schlechte qualität mit der running shoes,0,0,0.01484330937785445,0,0.0
+schlechte qualität mit der phone,0,0,0.011734464587205439,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+bad quality about the kamera,0,0,0.007440786938337707,0,0.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+schlechte qualität mit der coffee maker,0,0,0.013417095208288035,0,0.0
+very satisfied with purchase for my headphones,1,1,0.9923596429091612,1,1.0
+schlechte qualität mit der coffee maker,0,0,0.013417095208288035,0,0.0
+very satisfied with purchase for my kamera,1,1,0.9926323596696636,1,1.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+tolles produkt für meine kamera,1,1,0.988143015238054,1,1.0
+schlechte qualität mit der backpack,0,0,0.011975684895488673,0,0.0
+terrible broke in days about the tasche,0,0,0.007662076644235608,0,0.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+sehr zufrieden mit dem kauf für meine running shoes,1,1,0.982589806455681,1,1.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+waste of money about the headphones,0,0,0.007649162643454295,0,0.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+sehr gutes preis leistungs verhältnis für meine backpack,1,1,0.9883407525595341,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+funktioniert nicht mit der backpack,0,0,0.012410339371970797,0,0.0
+works perfectly for my laptop,1,1,0.9930155015847544,1,1.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+excellent quality and fast delivery for my headphones,1,1,0.9926026606853282,1,1.0
+sehr gutes preis leistungs verhältnis für meine tasche,1,1,0.9882605111964305,1,1.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+do not recommend about the tasche,0,0,0.007578970162297174,0,0.0
+geldverschwendung mit der tasche,0,0,0.01071817710898417,0,0.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+funktioniert einwandfrei für meine headphones,1,1,0.9873764887267686,1,1.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+do not recommend about the headphones,0,0,0.00723553450388815,0,0.0
+i love this product for my backpack,1,1,0.992490838001355,1,1.0
+geldverschwendung mit der kamera,0,0,0.010731724818127364,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+geldverschwendung mit der headphones,0,0,0.00980088960013873,0,0.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+nicht zu empfehlen mit der running shoes,0,0,0.014473327722042783,0,0.0
+nicht zu empfehlen mit der coffee maker,0,0,0.01322995709752725,0,0.0
+waste of money about the headphones,0,0,0.007649162643454295,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+geldverschwendung mit der tasche,0,0,0.01071817710898417,0,0.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+very disappointed about the running shoes,0,0,0.011136670381263238,0,0.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+funktioniert einwandfrei für meine laptop,1,1,0.9880690013733391,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+sehr gutes preis leistungs verhältnis für meine coffee maker,1,1,0.9864028968589372,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+geldverschwendung mit der kamera,0,0,0.010731724818127364,0,0.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+funktioniert nicht mit der laptop,0,0,0.012028733919158964,0,0.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+schlechte qualität mit der running shoes,0,0,0.01484330937785445,0,0.0
+sehr zufrieden mit dem kauf für meine headphones,1,1,0.9849177818301093,1,1.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+schlechte qualität mit der phone,0,0,0.011734464587205439,0,0.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+geldverschwendung mit der running shoes,0,0,0.015456445320880571,0,0.0
+geldverschwendung mit der running shoes,0,0,0.015456445320880571,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+product not as described about the tasche,0,0,0.007287157020360851,0,0.0
+terrible broke in days about the laptop,0,0,0.00782978199542687,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+schlechte qualität mit der coffee maker,0,0,0.013417095208288035,0,0.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+schlechte qualität mit der backpack,0,0,0.011975684895488673,0,0.0
+schlechte qualität mit der backpack,0,0,0.011975684895488673,0,0.0
+bad quality about the laptop,0,0,0.008156863165510765,0,0.0
+funktioniert nicht mit der running shoes,0,0,0.015633923360921415,0,0.0
+do not recommend about the backpack,0,0,0.007541114859101713,0,0.0
+highly recommend to everyone for my kamera,1,1,0.9922345693618818,1,1.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+sehr gutes preis leistungs verhältnis für meine tasche,1,1,0.9882605111964305,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+very satisfied with purchase for my backpack,1,1,0.9926706068495161,1,1.0
+very disappointed about the phone,0,0,0.007958753232076636,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+nicht zu empfehlen mit der coffee maker,0,0,0.01322995709752725,0,0.0
+schlechte qualität mit der tasche,0,0,0.011519985312979339,0,0.0
+i love this product for my running shoes,1,1,0.9901971568895374,1,1.0
+waste of money about the headphones,0,0,0.007649162643454295,0,0.0
+sehr zufrieden mit dem kauf für meine backpack,1,1,0.9847251170765586,1,1.0
+very satisfied with purchase for my phone,1,1,0.9928394365530497,1,1.0
+highly recommend to everyone for my headphones,1,1,0.9919548900242646,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+geldverschwendung mit der running shoes,0,0,0.015456445320880571,0,0.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+schlechte qualität mit der coffee maker,0,0,0.013417095208288035,0,0.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+do not recommend about the running shoes,0,0,0.010031605684052623,0,0.0
+very disappointed about the backpack,0,0,0.007711893536118091,0,0.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+kann ich nur empfehlen für meine laptop,1,1,0.9872282533797928,1,1.0
+works perfectly for my coffee maker,1,1,0.9893346650093662,1,1.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+sehr gutes preis leistungs verhältnis für meine laptop,1,1,0.9889390694618083,1,1.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+excellent quality and fast delivery for my kamera,1,1,0.9928408003815984,1,1.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+tolles produkt für meine running shoes,1,1,0.9846060234824009,1,1.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+schlechte qualität mit der coffee maker,0,0,0.013417095208288035,0,0.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+excellent quality and fast delivery for my laptop,1,1,0.9929585083256337,1,1.0
+funktioniert nicht mit der headphones,0,0,0.011085871812323012,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+nicht zu empfehlen mit der kamera,0,0,0.011797285850341717,0,0.0
+tolles produkt für meine laptop,1,1,0.9886990618176775,1,1.0
+works perfectly for my headphones,1,1,0.9925158975711819,1,1.0
+sehr zufrieden mit dem kauf für meine coffee maker,1,1,0.9823267516140017,1,1.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+terrible broke in days about the phone,0,0,0.007800057219184078,0,0.0
+bad quality about the headphones,0,0,0.007492248277080615,0,0.0
+terrible broke in days about the backpack,0,0,0.007633817401714701,0,0.0
+amazing value for money for my kamera,1,1,0.9936260280616349,1,1.0
+product not as described about the phone,0,0,0.007426034178634186,0,0.0
+very disappointed about the laptop,0,0,0.007996266481098335,0,0.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+sehr gutes preis leistungs verhältnis für meine laptop,1,1,0.9889390694618083,1,1.0
+nicht zu empfehlen mit der tasche,0,0,0.011788836768408341,0,0.0
+funktioniert einwandfrei für meine laptop,1,1,0.9880690013733391,1,1.0
+tolles produkt für meine kamera,1,1,0.988143015238054,1,1.0
+kann ich nur empfehlen für meine coffee maker,1,1,0.9840816668059632,1,1.0
+nicht zu empfehlen mit der phone,0,0,0.011983208315414051,0,0.0
+amazing value for money for my kamera,1,1,0.9936260280616349,1,1.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+product not as described about the coffee maker,0,0,0.008668944047859334,0,0.0
+excellent quality and fast delivery for my phone,1,1,0.9930248031787364,1,1.0
+works perfectly for my tasche,1,1,0.9929749103724308,1,1.0
+bad quality about the phone,0,0,0.0081186777744211,0,0.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+funktioniert einwandfrei für meine headphones,1,1,0.9873764887267686,1,1.0
+sehr gutes preis leistungs verhältnis für meine coffee maker,1,1,0.9864028968589372,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+sehr gutes preis leistungs verhältnis für meine coffee maker,1,1,0.9864028968589372,1,1.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+highly recommend to everyone for my coffee maker,1,1,0.9898508131319796,1,1.0
+waste of money about the kamera,0,0,0.00761668384388201,0,0.0
+tolles produkt für meine backpack,1,1,0.9877851263558444,1,1.0
+sehr enttäuscht mit der tasche,0,0,0.012778299386241863,0,0.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+sehr zufrieden mit dem kauf für meine coffee maker,1,1,0.9823267516140017,1,1.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+i love this product for my tasche,1,1,0.9925543799893324,1,1.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+waste of money about the headphones,0,0,0.007649162643454295,0,0.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+sehr zufrieden mit dem kauf für meine laptop,1,1,0.9854928008101588,1,1.0
+i love this product for my kamera,1,1,0.9924521293718888,1,1.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+very disappointed about the headphones,0,0,0.007340234770248664,0,0.0
+sehr enttäuscht mit der laptop,0,0,0.012905124657253762,0,0.0
+funktioniert einwandfrei für meine phone,1,1,0.987722710886915,1,1.0
+sehr gutes preis leistungs verhältnis für meine laptop,1,1,0.9889390694618083,1,1.0
+tolles produkt für meine coffee maker,1,1,0.9843696667300711,1,1.0
+i love this product for my laptop,1,1,0.9925962333186851,1,1.0
+highly recommend to everyone for my laptop,1,1,0.9923694812134323,1,1.0
+funktioniert nicht mit der tasche,0,0,0.011910954211076127,0,0.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+terrible broke in days about the coffee maker,0,0,0.008926268744506447,0,0.0
+funktioniert einwandfrei für meine backpack,1,1,0.987059984536293,1,1.0
+very satisfied with purchase for my laptop,1,1,0.9927619690556413,1,1.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+funktioniert nicht mit der tasche,0,0,0.011910954211076127,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+sehr gutes preis leistungs verhältnis für meine running shoes,1,1,0.9865966823276203,1,1.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+product not as described about the kamera,0,0,0.00697556612437983,0,0.0
+sehr enttäuscht mit der backpack,0,0,0.013308315850722572,0,0.0
+i love this product for my running shoes,1,1,0.9901971568895374,1,1.0
+very disappointed about the kamera,0,0,0.007288738503510644,0,0.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+tolles produkt für meine laptop,1,1,0.9886990618176775,1,1.0
+tolles produkt für meine tasche,1,1,0.9876596143620247,1,1.0
+funktioniert einwandfrei für meine backpack,1,1,0.987059984536293,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+funktioniert nicht mit der backpack,0,0,0.012410339371970797,0,0.0
+works perfectly for my phone,1,1,0.9931211877228463,1,1.0
+nicht zu empfehlen mit der backpack,0,0,0.012186843200679351,0,0.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+highly recommend to everyone for my running shoes,1,1,0.9904633506029401,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+highly recommend to everyone for my tasche,1,1,0.9923283994220868,1,1.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+funktioniert nicht mit der phone,0,0,0.012143266190507939,0,0.0
+sehr enttäuscht mit der coffee maker,0,0,0.01501943400686739,0,0.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+kann ich nur empfehlen für meine backpack,1,1,0.986491557071975,1,1.0
+very disappointed about the coffee maker,0,0,0.010369937179822375,0,0.0
+geldverschwendung mit der laptop,0,0,0.010833121018444358,0,0.0
+very satisfied with purchase for my tasche,1,1,0.992722893734081,1,1.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+very satisfied with purchase for my coffee maker,1,1,0.990260226314912,1,1.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+i love this product for my running shoes,1,1,0.9901971568895374,1,1.0
+product not as described about the laptop,0,0,0.007455308645700514,0,0.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+amazing value for money for my backpack,1,1,0.9936580129888898,1,1.0
+do not recommend about the laptop,0,0,0.007774871966347358,0,0.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+waste of money about the backpack,0,0,0.007963771247542498,0,0.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+amazing value for money for my coffee maker,1,1,0.991459869486197,1,1.0
+funktioniert nicht mit der headphones,0,0,0.011085871812323012,0,0.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+waste of money about the coffee maker,0,0,0.009827792942504777,0,0.0
+kann ich nur empfehlen für meine coffee maker,1,1,0.9840816668059632,1,1.0
+very satisfied with purchase for my running shoes,1,1,0.9908589060658085,1,1.0
+bad quality about the running shoes,0,0,0.011309179153465873,0,0.0
+geldverschwendung mit der backpack,0,0,0.011286716781770593,0,0.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+funktioniert nicht mit der phone,0,0,0.012143266190507939,0,0.0
+excellent quality and fast delivery for my tasche,1,1,0.9929220982408103,1,1.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+i love this product for my backpack,1,1,0.992490838001355,1,1.0
+product not as described about the running shoes,0,0,0.009180194630961385,0,0.0
+do not recommend about the coffee maker,0,0,0.009418600830776063,0,0.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+do not recommend about the phone,0,0,0.007741843845289802,0,0.0
+sehr gutes preis leistungs verhältnis für meine headphones,1,1,0.9884972671530611,1,1.0
+funktioniert nicht mit der backpack,0,0,0.012410339371970797,0,0.0
+highly recommend to everyone for my backpack,1,1,0.992275370715954,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+waste of money about the tasche,0,0,0.008001945782909246,0,0.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+i love this product for my coffee maker,1,1,0.9894877825097872,1,1.0
+works perfectly for my running shoes,1,1,0.9901293340507581,1,1.0
+terrible broke in days about the kamera,0,0,0.007358159040153963,0,0.0
+sehr zufrieden mit dem kauf für meine tasche,1,1,0.984622611228489,1,1.0
+funktioniert nicht mit der tasche,0,0,0.011910954211076127,0,0.0
+kann ich nur empfehlen für meine headphones,1,1,0.9866870247111492,1,1.0
+i love this product for my phone,1,1,0.9926893656159169,1,1.0
+kann ich nur empfehlen für meine kamera,1,1,0.9867599134614394,1,1.0
+highly recommend to everyone for my phone,1,1,0.9924483000396548,1,1.0
+geldverschwendung mit der kamera,0,0,0.010731724818127364,0,0.0
+bad quality about the tasche,0,0,0.007919714389993435,0,0.0
+waste of money about the phone,0,0,0.008170009211931248,0,0.0
+schlechte qualität mit der phone,0,0,0.011734464587205439,0,0.0
+excellent quality and fast delivery for my backpack,1,1,0.9928777424466533,1,1.0
+terrible broke in days about the running shoes,0,0,0.009428382809098785,0,0.0
+nicht zu empfehlen mit der phone,0,0,0.011983208315414051,0,0.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+nicht zu empfehlen mit der headphones,0,0,0.011118418719590854,0,0.0
+waste of money about the laptop,0,0,0.008204500479207377,0,0.0
+product not as described about the backpack,0,0,0.007257312840825341,0,0.0
+very disappointed about the tasche,0,0,0.007762488376723717,0,0.0
+waste of money about the running shoes,0,0,0.010455796949901458,0,0.0
+terrible broke in days about the headphones,0,0,0.007377789138211844,0,0.0
+amazing value for money for my tasche,1,1,0.9937051017286498,1,1.0
+works perfectly for my backpack,1,1,0.9929018728128839,1,1.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
+funktioniert nicht mit der running shoes,0,0,0.015633923360921415,0,0.0
+amazing value for money for my running shoes,1,1,0.9919923896565666,1,1.0
+sehr zufrieden mit dem kauf für meine laptop,1,1,0.9854928008101588,1,1.0
+do not recommend about the kamera,0,0,0.00720212568067424,0,0.0
+sehr gutes preis leistungs verhältnis für meine headphones,1,1,0.9884972671530611,1,1.0
+tolles produkt für meine kamera,1,1,0.988143015238054,1,1.0
+product not as described about the headphones,0,0,0.006998511011978106,0,0.0
+amazing value for money for my laptop,1,1,0.9937385235842289,1,1.0
+funktioniert nicht mit der phone,0,0,0.012143266190507939,0,0.0
+geldverschwendung mit der kamera,0,0,0.010731724818127364,0,0.0
+kann ich nur empfehlen für meine tasche,1,1,0.9863925498037577,1,1.0
+schlechte qualität mit der kamera,0,0,0.011530084766862231,0,0.0
+bad quality about the backpack,0,0,0.007868758995067096,0,0.0
+sehr enttäuscht mit der running shoes,0,0,0.016676208103120642,0,0.0
+works perfectly for my kamera,1,1,0.992867776257141,1,1.0
