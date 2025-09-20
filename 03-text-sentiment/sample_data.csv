@@ -1,0 +1,5 @@
+review_id,text,label,lang
+R000001,"I love this product, works great!",1,en
+R000002,"Sehr enttäuscht mit der Verarbeitung",0,de
+R000003,"Excellent value for money",1,en
+R000004,"Nicht gut, sehr schlechte Qualität",0,de
