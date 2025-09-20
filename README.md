@@ -94,7 +94,7 @@ python 01-customer-churn/04_evaluate_visualize.py
 ### 🚀 Repository Status & Notes
 
 This portfolio is **actively maintained**.  
-To keep the repository lightweight and recruiter-friendly:
+To keep the repository lightweight and friendly:
 
 - Large generated files (processed data, feature CSVs, trained models) are **not committed**.  
 - Each project provides scripts to **recreate all outputs locally** (`reports/`, `features/`, `models/`).  
