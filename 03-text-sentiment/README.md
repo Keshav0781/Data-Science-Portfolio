@@ -65,11 +65,11 @@ The models were evaluated on the test set. Both Logistic Regression and Random F
 - **ROC Curves** — both models show perfect separation (AUC = 1.0). This happens due to synthetic data being clean and highly separable. On real reviews, curves would not be this perfect.  
   ![ROC Curves](reports/visuals/roc_curves.png)
 
-- **Confusion Matrix** — shows zero misclassifications (all predictions correct). While ideal here, real-world data would include false positives and false negatives.  
-  ![Confusion Matrix](03-text-sentiment/reports/visuals/confusion_matrix_LogisticRegression.png)
+- **Confusion Matrix (LogisticRegression)** — shows zero misclassifications (all predictions correct). While ideal here, real-world data would include false positives and false negatives.  
+  ![Confusion Matrix](reports/visuals/confusion_matrix_LogisticRegression.png)
 
 - **Word Importance (Logistic Regression coefficients)** — highlights most influential words. For synthetic reviews, positive terms like *excellent* dominate, while *bad* or *terrible* dominate negatives. This makes the model interpretable for recruiters and stakeholders.  
-  ![Word Importance](03-text-sentiment/reports/visuals/word_importance.png)
+  ![Word Importance](reports/visuals/word_importance.png)
 
 
 ## Notes
