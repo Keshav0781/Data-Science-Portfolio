@@ -57,6 +57,25 @@ My portfolio highlights **end-to-end data pipelines**, from synthetic data gener
 - `02-predictive-maintenance/reports/` — contains ROC, confusion matrix, metrics summary
 
 ---
+---
+
+### 3. [Text Sentiment Analysis — Multilingual Reviews (English + German)](03-text-sentiment/)
+**End-to-end text classification pipeline (sentiment analysis)**  
+- **Tech Stack:** Python, scikit-learn, Pandas, Matplotlib, Seaborn  
+- **Data:** Synthetic multilingual reviews (English + German) generated if no real dataset provided.  
+- **Pipeline:** Data acquisition → preprocessing (cleaning + train/test split) → TF-IDF vectorization → model training → evaluation & interpretability.  
+- **Models:** Logistic Regression (baseline) and Random Forest (both scored perfectly on synthetic dataset).  
+- **Deliverables:** `reports/metrics.csv`, `reports/predictions_test.csv`, `reports/visuals/` (ROC curves, confusion matrix, top influential words), `models/` (vectorizer + trained models).
+
+**Key Files**
+- `03-text-sentiment/00_get_data.py` — generate/load reviews dataset  
+- `03-text-sentiment/01_preprocess.py` — text cleaning + train/test split  
+- `03-text-sentiment/02_train_model.py` — TF-IDF + model training, metrics export  
+- `03-text-sentiment/03_evaluate_visualize.py` — ROC, confusion matrix, top word features (saved as PNGs)
+
+**Quick highlight:** Both models achieved **perfect metrics (AUC = 1.0)** on the synthetic dataset.  
+This demonstrates pipeline correctness; with real-world reviews, results will be less perfect but more realistic.
+
 
 ### How to reproduce 
 Each project contains a README explaining step-by-step how to install requirements and run the pipeline. Typical commands from repo root:
