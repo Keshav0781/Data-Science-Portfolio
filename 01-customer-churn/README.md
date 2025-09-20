@@ -1,4 +1,4 @@
-# Customer Churn Prediction — Project 01
+# Customer Churn Prediction
 
 ## Project Overview
 Predict customer churn (binary classification) using customer and usage data.  
