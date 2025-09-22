@@ -104,5 +104,5 @@ To keep the repository lightweight and friendly:
 ## 📫 Contact
 - **Email:** iamkeshav0781@gmail.com  
 - **Location:** Erlangen, Germany  
-- **LinkedIn:** [linkedin.com/in/keshavjha0781](https://linkedin.com/in/keshavjha0781)  
+- **LinkedIn:** ([https://linkedin.com/in/keshavjha0781](https://www.linkedin.com/in/keshav-jha-11899b255/))  
 
