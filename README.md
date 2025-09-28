@@ -22,7 +22,7 @@ My portfolio highlights **end-to-end data pipelines**, from synthetic data gener
 
 ## 📊 Featured Projects
 
-### 1. [Customer Churn Prediction :— Project 01](01-customer-churn/)
+### 1. [Customer Churn Prediction :- Project 01](01-customer-churn/)
 **End-to-end churn prediction pipeline (classification)**  
 - **Tech Stack:** Python, scikit-learn, Pandas, Matplotlib, Seaborn  
 - **Data:** public Telco CSV (recommended) or small `sample_data.csv` shipped in the repo (schema example). Large/full processed data and generated files are **not** committed.  
