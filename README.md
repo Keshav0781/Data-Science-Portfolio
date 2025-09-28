@@ -22,7 +22,7 @@ My portfolio highlights **end-to-end data pipelines**, from synthetic data gener
 
 ## 📊 Featured Projects
 
-### 1. [Customer Churn Prediction — Project 01](01-customer-churn/)
+### 1. [Customer Churn Prediction :— Project 01](01-customer-churn/)
 **End-to-end churn prediction pipeline (classification)**  
 - **Tech Stack:** Python, scikit-learn, Pandas, Matplotlib, Seaborn  
 - **Data:** public Telco CSV (recommended) or small `sample_data.csv` shipped in the repo (schema example). Large/full processed data and generated files are **not** committed.  
@@ -41,7 +41,7 @@ My portfolio highlights **end-to-end data pipelines**, from synthetic data gener
 
 ---
 
-### 2. [Predictive Maintenance — Industrial Equipment Failure Prediction  - Project 02](02-predictive-maintenance/)
+### 2. [Predictive Maintenance — Industrial Equipment Failure Prediction  :- Project 02](02-predictive-maintenance/)
 **End-to-end machine learning pipeline for industrial predictive maintenance**  
 - **Tech Stack:** Python, scikit-learn, Pandas, Matplotlib, Seaborn  
 - **Data:** Synthetic sensor data generated programmatically (machines, sensor readings, failure logs)  
@@ -58,7 +58,7 @@ My portfolio highlights **end-to-end data pipelines**, from synthetic data gener
 
 ---
 
-### 3. [Text Sentiment Analysis — Multilingual Reviews  - Project 03(English + German)](03-text-sentiment/)
+### 3. [Text Sentiment Analysis — Multilingual Reviews  :- Project 03 (English + German)](03-text-sentiment/)
 **End-to-end text classification pipeline (sentiment analysis)**  
 - **Tech Stack:** Python, scikit-learn, Pandas, Matplotlib, Seaborn  
 - **Data:** Synthetic multilingual reviews (English + German) generated if no real dataset provided.  
